@@ -1,5 +1,4 @@
-# study_assistant_RAG
-**# study_assistant-RAG
+
 # 🎓 Smart Student Study Assistant
 
 An AI-powered RAG (Retrieval-Augmented Generation) application that allows students to upload any PDF (syllabus, notes, textbook) and interact with it intelligently.
